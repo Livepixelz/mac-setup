@@ -228,16 +228,15 @@ brew install imagemagick
 
 ## OS Productivity
 
-### Window Management
+### Window Management / Quick Launching
 
 I know this feature is built in to a lot of other operating systems, but it is not built in to a Mac, so we need an app for it.
+The built in spotlight search is a bit slow for me and usually has web search results as the default instead of apps or folders on my machine.
 
-I use [rectangle](https://rectangleapp.com/) to move and resize windows using keyboard shortcuts. I used to use [spectacle](https://www.spectacleapp.com/), but rectangle is more regularly maintained and allows me to use all of the same keyboard shortcuts as spectacle.
-
-I highly recommend installing this and memorizing the keyboard shortcuts. Fluid and seamless window management is key to being productive while coding.
+I use [raycast](https://rectangleapp.com/)(https://www.raycast.com/) to move and resize windows using keyboard shortcuts.
 
 ```sh
-brew install rectangle
+brew install raycast
 ```
 
 ### App Switching
@@ -252,22 +251,9 @@ I replace the built-in `CMD+TAB` shortcut with AltTab.
 brew install alt-tab
 ```
 
-### Quick Launching
-
-The built in spotlight search is a bit slow for me and usually has web search results as the default instead of apps or folders on my machine.
-
-I use [Alfred](https://www.alfredapp.com/) to launch apps / folders. There are features locked behind the paid powerpack, but I purchased a lifetime license a few years ago, and Alfred keeps working great for me. There are a lot of other cool things you can do with Alfred (workflows, scripting, clipboard manager etc.), but I mainly use it for launching apps and folders.
-
-```sh
-brew install alfred
-```
-
 ## Other Apps I Use Daily
 
 * [firefox-developer-edition](https://www.mozilla.org/en-US/firefox/developer/) - Preferred web browser
-* [app-cleaner](https://freemacsoft.net/appcleaner/) - When removing an app, will search your file system for related files / settings that should be removed as well
-* android-file-transfer - Transfer files to / from my android phone
-* android-platform-tools - Installs `adb` without the need for the full android studio.
 * [keepingyouawake](https://keepingyouawake.app/) - Prevents my Mac from going to sleep when I'm presenting / live streaming
 * [discord](https://discord.com/) - Messaging / Community
 * [vlc](https://www.videolan.org/) - I use VLC to watch videos instead of the built in QuickTime.
@@ -277,8 +263,7 @@ brew install alfred
 * [gimp](https://www.gimp.org/) - Image editor
 * [inkscape](https://inkscape.org/) - Vector editor
 * [visual-studio-code](https://code.visualstudio.com/) - Code Editor
-* [sublime-text](https://www.sublimetext.com/) - Note taking (I know there are better apps...)
-* [insomnia](https://insomnia.rest/products/insomnia) - HTTP / REST / GraphQL tester / requester
+* [postman](https://www.postman.com/) - HTTP / REST / GraphQL tester / requester
 
 You can install them in one go by placing them all into a text file and then running brew install:
 
