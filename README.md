@@ -176,7 +176,7 @@ Copy this file (or create your own) in your home directory:
 
 ```sh
 cd ~
-curl -O https://raw.githubusercontent.com/w3cj/dotfiles/master/.bash_profile
+curl -O https://gist.githubusercontent.com/Livepixelz/42eb5debeff0f7597b69dce7d96d1871/raw/1e70be07ee67056b894688cae8b8642ea6bfc868/.bash_profile
 ```
 
 #### Commands used by my .bash_profile
@@ -209,9 +209,9 @@ git --version
 Configure git with your name / email and preferred editor:
 
 ```sh
-git config --global user.name w3cj
+git config --global user.name livepixelz
 
-git config --global user.email cj@null.computer
+git config --global user.email livepixelz@email.com
 
 git config --global core.editor nano
 ```
