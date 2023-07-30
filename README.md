@@ -170,7 +170,7 @@ I have a custom `.bash_profile` with all of my custom settings including a custo
 
 If you do not want to go through the process of customizing your `.bash_profile`, you can install [Oh My Bash](https://ohmybash.nntoan.com/) to get a ton of customizations out of the box.
 
-I store my `.bash_profile` on [github here](https://github.com/w3cj/dotfiles/blob/master/.bash_profile) so I can copy it over to any machine I'm setting up.
+I store my `.bash_profile` on [github here](https://gist.githubusercontent.com/Livepixelz/42eb5debeff0f7597b69dce7d96d1871/raw/1e70be07ee67056b894688cae8b8642ea6bfc868/.bash_profile) so I can copy it over to any machine I'm setting up.
 
 Copy this file (or create your own) in your home directory:
 
