@@ -39,16 +39,14 @@ This repo contains info on all the apps / tools / settings I use on my Mac.
 
 ## What Macbook do I have?
 
-In the 2022 setup video I was using the 2015 Macbook Pro. You can read more about it [here](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.5-15-dual-graphics-mid-2015-retina-display-specs.html)
-
-I am now using the 2021 14" Macbook Pro. This setup works exactly the same on there.
+I am using 2023 16" Macbook Pro. This setup works exactly the same on there.
 
 These are the specs at a glance:
-* Apple M1 Pro
-* 16GB RAM
-* 500GB SSD
+* Apple M2 Pro
+* 32GB RAM
+* 1TB SSD
 
-Read more about this Macbook [here](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m1-pro-8-core-cpu-14-core-gpu-14-2021-specs.html)
+Read more about this Macbook [here]([https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m1-pro-8-core-cpu-14-core-gpu-14-2021-specs.html](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m2-pro-12-core-cpu-19-core-gpu-16-2023-specs.html))
 
 ## Homebrew / Terminal / Shell
 
@@ -101,7 +99,6 @@ Once installed, launch it and customize the settings / preferences to your likin
           * You can download this font [here](https://www.marksimonson.com/fonts/view/anonymous-pro).
           * I use this font in VS Code as well
       * Text -> Font Size -> 36
-          * I use my Macbook to present / teach, so a big font size is important so everyone can see the commands I'm typing
       * Keys -> Key Mappings -> Presets -> Natural Text Editing
           * This allows me to use the [keyboard shortcuts](https://gist.github.com/w3cj/022081eda22081b82c52) I know and love inside of iTerm2
 
